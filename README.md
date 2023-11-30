@@ -1,16 +1,16 @@
-# Email_Header_analysis
-  ![eha.jpg](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/c9cdec1918d566992e1639d5a4af295ec6cf0342/eha/static/imgs/eha.jpg)
+# Email_Forensics
+  ![eha.jpg](https://github.com/Manasvi2204/Deathnote22/Email_forensics/blob/c9cdec1918d566992e1639d5a4af295ec6cf0342/eha/static/imgs/eha.jpg)
   
 <h1 align="center">
   <br>
-  <!-- <a href="https://github.com/Shubhamkhapra/Email_header_analysis_forensic"><img src="./eha/static/imgs/1.png" alt="EHA"></a>
+  <!-- <a href="https://github.com/Manasvi2204/Deathnote22/Email_forensics"><img src="./eha/static/imgs/1.png" alt="EHA"></a>
   <br> -->
-  Email Header Analysis
+  Email Forensics
   <br>
 </h1>
 	
 <p align="center">
-  <a href="https://github.com/Shubhamkhapra/Email_header_analysis_forensic">
+  <a href="https://github.com/Manasvi2204/Deathnote22/Email_forensics">
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
     <img src = "https://forthebadge.com/images/badges/uses-html.svg">
 
@@ -43,8 +43,8 @@ Install system Dependencies:
 ~> sudo pip3 install virtualenv
 
 Clone the GitHub repo & install python Dependencies :
-~> git clone https://github.com/Shubhamkhapra/Email_header_analysis_forensic.git
-~> cd Email_header_analysis_forensic
+~> git clone https://github.com/Manasvi2204/Deathnote22/Email_forensics.git
+~> cd Email_forensics
 
 Create a Python virtual environment and activate it: (Because Flask need to run virtual environment)
 ~>virtualenv virt
@@ -62,17 +62,17 @@ enjoy EHA
 ```
 1. Show localhost address
 ```
-![0.png](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/0.png)
+![0.png](https://github.com/Manasvi2204/Deathnote22/Email_forensics/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/0.png)
 
 ```
 2. Copy and Paste header in box
 ```
-![1.png](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/1.png)
+![1.png](https://github.com/Manasvi2204/Deathnote22/Email_forensics/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/1.png)
 
 ```
 3. Result 
 ```
-![2.png](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/2.png)
+![2.png](https://github.com/Manasvi2204/Deathnote22/Email_forensics/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/2.png)
 
 ## Key Points EHA?
 ````
